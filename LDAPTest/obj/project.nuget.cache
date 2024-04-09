@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tt0jLdZYDQZ2EibqYqgTb0eZZgExws2cGDgKgplzrJGefqBRmHyTkE4yno4gBJYb8ZYQhJvjJoRxSWhTgRaLDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Udara\\Documents\\Project\\LDAPTest\\LDAPTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Udara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Udara\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

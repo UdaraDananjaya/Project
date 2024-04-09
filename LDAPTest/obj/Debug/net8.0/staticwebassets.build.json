@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KyNjhtF8wdbQtKvvaGOIsgszPnYseFqYecXnG/WxFCQ=",
+  "Source": "LDAPTest",
+  "BasePath": "_content/LDAPTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
